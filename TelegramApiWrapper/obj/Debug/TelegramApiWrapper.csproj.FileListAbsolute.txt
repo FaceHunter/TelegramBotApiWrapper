@@ -1,0 +1,7 @@
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\obj\Debug\TelegramApiWrapper.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\bin\Debug\TelegramApiWrapper.dll
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\bin\Debug\TelegramApiWrapper.pdb
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\obj\Debug\TelegramApiWrapper.dll
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\obj\Debug\TelegramApiWrapper.pdb
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\bin\Debug\Newtonsoft.Json.dll
+c:\users\michael\documents\visual studio 2015\Projects\TelegramApiWrapper\TelegramApiWrapper\bin\Debug\Newtonsoft.Json.xml
